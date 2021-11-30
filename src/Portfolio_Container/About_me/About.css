@@ -1,0 +1,55 @@
+.about {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.about_left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+}
+
+.about_right {
+    flex: 1;
+}
+
+.about_card.bg {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: #333;
+}
+
+.about_card {
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+    position: relative;
+}
+
+.about_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.about_title {
+    font-weight: 600;
+    text-align: start;
+}
+
+.about_sub {
+    margin: 20px 0px;
+    text-align: start;
+}
+
+.about_desc {
+    font-weight: 400;
+    width: 95%;
+    text-align: start;
+}

@@ -99,6 +99,7 @@
     transform: scale(1.07);
     transition: 1s ease-out;
 }
+
 /* responsiveness */
 /* @media screen and (max-width: 110px) {
     .profile_picture {
