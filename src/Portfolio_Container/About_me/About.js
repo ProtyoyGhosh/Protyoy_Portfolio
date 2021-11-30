@@ -19,7 +19,7 @@ const About = () => {
             </Fade>
             <Fade right cascade>
                 <div className="about_right">
-                    <h1 className="about_title">About Me</h1>
+                    <h1 className="about_title" style={{ fontSize: '40px', fontFamily: 'cursive' }}>About Me</h1>
                     <p className="about_sub">
                         I am a full stack web developer with more than 3000 hours of building,maintaining & deployinf single page applications
                     </p>
