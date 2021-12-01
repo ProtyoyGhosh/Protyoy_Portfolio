@@ -2,6 +2,7 @@ import { Switch } from 'react-router';
 import { BrowserRouter, Route } from 'react-router-dom';
 import './App.css';
 import About from './Portfolio_Container/About_me/About';
+import Blogs from './Portfolio_Container/Blogs/Blogs';
 import Contact from './Portfolio_Container/Contact_me/Contact';
 import Error from './Portfolio_Container/Error/Error';
 import Home from './Portfolio_Container/Home/Home';
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path='/contact'>
             <Contact></Contact>
+          </Route>
+          <Route path='/blogs'>
+            <Blogs></Blogs>
           </Route>
           <Route path='*'>
             <Error></Error>
