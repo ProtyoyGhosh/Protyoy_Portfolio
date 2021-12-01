@@ -20,11 +20,11 @@ const About = () => {
             <Fade right cascade>
                 <div className="about_right">
                     <h1 className="about_title" style={{ fontSize: '40px', fontFamily: 'cursive' }}>About Me</h1>
-                    <p className="about_sub">
-                        I am a full stack web developer with more than 3000 hours of building,maintaining & deployinf single page applications
+                    <p className="about_sub" style={{ fontFamily: 'poppins Light' }}>
+                        I am a full stack web developer with more than 3000 hours of building,maintaining & deploying single page applications.
                     </p>
-                    <p className="about_desc">
-                        I have a solid background about web developement.I have a bachelor degree in Computer Science.I can adapt on any technology eapidly making myself flexible upon any developement.A passionate,diligent person who wants to learn continuously
+                    <p className="about_desc" style={{ fontFamily: 'poppins Light' }}>
+                        I have a solid background about web developement.I have a bachelor degree in Computer Science.I can adapt on any technology rapidly & making myself flexible upon any developement.A passionate,diligent person who wants to learn continuously
                     </p>
                 </div>
             </Fade>

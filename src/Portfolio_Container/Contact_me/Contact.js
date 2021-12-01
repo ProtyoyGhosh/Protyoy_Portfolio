@@ -29,11 +29,11 @@ const Contact = () => {
             <div className="contact_bg"></div>
             <div className="wrapper">
                 <Slide left cascade>
-                    <div className="left">
+                    <div className="left" style={{ fontFamily: 'poppins Light' }}>
                         <h3 style={{ fontSize: '40px', fontFamily: 'cursive' }} className="contact_title">
                             Please contact me for more information
                         </h3>
-                        <div className="contact_info">
+                        <div className="contact_info" >
                             <div className="contact_info_item">
                                 <img src={phone} alt="" className="contact_icon" />
                                 +88 01915441238
@@ -53,7 +53,7 @@ const Contact = () => {
                         </div>
                     </div>
                 </Slide>
-                <div className="right">
+                <div className="right" style={{ fontFamily: 'poppins Light' }}>
 
                     <p className="contact_desc">
                         <b style={{ color: 'orangered' }}>Get in touch.</b> Always available.Feel free to contact me for any project or developement.

@@ -16,7 +16,7 @@ const Projects = () => {
             <Bounce top cascade>
                 <div className="projet_texts">
                     <h1 className="title">Designed & Developed</h1>
-                    <p className="desc">
+                    <p className="desc" style={{ fontFamily: 'poppins Light' }}>
                         I am a creative & passonate Developer.These are some of my projects that i developed recently.Click on the images to see the live preview.
                     </p>
                 </div>

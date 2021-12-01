@@ -17,14 +17,14 @@ const Skills = () => {
                 <div className="col-md-4" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                     <div>
                         <h3 style={{ fontSize: '40px', fontFamily: 'cursive' }}>My Skills</h3>
-                        <p>These are some basic skills i have.I am working on my sills everyday to improve myself to beacome a full stack Web Developer.</p>
+                        <p style={{ fontFamily: 'poppins Light' }}>These are some basic skills i have.I am working on my sills everyday to improve myself to beacome a full stack Web Developer.</p>
                     </div>
                 </div>
             </Bounce>
 
             <Bounce right cascade>
                 <div className="col-md-8">
-                    <div>
+                    <div style={{ fontFamily: 'poopins semibold' }}>
                         <div style={{ textAlign: 'start' }}><small>HTML</small></div>
                         <ProgressBar variant="success" now={html} label={`${html}%`} />
                         <div style={{ textAlign: 'start' }}><small>CSS</small></div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Typical from 'react-typical';
 import './Profile.css';
 
@@ -34,9 +35,9 @@ const Profile = () => {
                         </span>
                     </div>
                     <div className='profile_options'>
-                        <button className='primary_btn rounded-pill'>
+                        <Link to='/contact'><button className='primary_btn rounded-pill'>
                             Hire me
-                        </button>
+                        </button></Link>
                         <a href='Protyoy_Web-Developer_Resume.pdf' download='Protyoy_Web-Developer_Resume'>
                             <button className=' highlited_btn rounded-pill'>Resume</button>
                         </a>
