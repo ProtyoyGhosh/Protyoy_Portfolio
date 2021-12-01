@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "img1": "https://i.ibb.co/Ksmmb8D/carmax1.png",
+    "img2": "https://drive.google.com/file/d/1Me-S9qaic449jk5YTBSfa_ZiVme3NbQU/view?usp=sharing",
+    "title": "A car buying website",
+    "live": "https://simple-firebase-authenti-9e8ce.web.app/",
+    "client": "https://github.com/ProtyoyGhosh/carMax.com-website",
+    "server": "https://github.com/ProtyoyGhosh/carMax.com-website-server",
+    "time": "10 days"
+  },
+  {
+    "id": 2,
+    "img1": "https://i.ibb.co/jVwkrXP/travel1.png",
+    "img2": "https://drive.google.com/file/d/10-uX9lA_DrcXfwKvjplzGglwx6F7v9xM/view?usp=sharing",
+    "title": "A tourism website",
+    "live": "https://desh-travel-tourism.netlify.app/",
+    "client": "https://github.com/ProtyoyGhosh/desh_travel_tourism_fullstack_website",
+    "server": "https://github.com/ProtyoyGhosh/desh_travel_tourism_server",
+    "time": "2 days"
+  },
+  {
+    "id": 3,
+    "img1": "https://i.ibb.co/dJhw53Z/medical1.png",
+    "img2": "https://drive.google.com/file/d/12GLRKUBiArAJLZFmNmpEGGvXCzqHEtCm/view?usp=sharing",
+    "title": "Medical Services",
+    "live": "https://medicoz-medical-website.netlify.app/",
+    "client": "https://github.com/ProtyoyGhosh/medicoz-medical_service-website",
+    "time": "4 days"
+  },
+  {
+    "id": 4,
+    "img1": "https://i.ibb.co/VwnyWHR/concert1.png",
+    "img2": "https://drive.google.com/file/d/1D3P6Y1zgp-xuXQbvHYRcLA3D5fGRIPhC/view?usp=sharing",
+    "title": "Concert booking website",
+    "live": "https://protyoy-concert-web.netlify.app/",
+    "client": "https://github.com/ProtyoyGhosh/greatest-concert-website",
+    "time": "1 day"
+  },
+  {
+    "id": 5,
+    "img1": "https://i.ibb.co/M64B8GY/shopping1.png",
+    "img2": "https://drive.google.com/file/d/15u9AV36CGI_7WjVRqUgb4c47wjS96DyO/view?usp=sharing",
+    "title": "e-commerce website",
+    "live": "https://assignment-7-protyoy.netlify.app/",
+    "client": "https://github.com/ProtyoyGhosh/store-website",
+    "time": "1 day"
+  }
+]
